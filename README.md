@@ -2,7 +2,7 @@
 
 [![Cocos Creator](https://img.shields.io/badge/Cocos%20Creator-v2.4.15-blue)](https://www.cocos.com/en/)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue.svg)](https://www.typescriptlang.org/)
-[![Game Genre](https://img.shields.io/badge/Genre-Casual%20%7C%20Tycoon-green)](https://www.gamejob.co.kr/Recruit/GI_Read/View?GI_No=271664)
+[![Game Genre](https://img.shields.io/badge/Genre-Casual%20%7C%20Tycoon-green)]()
 
 > **트리플라(TREEPLLA)의 "캐주얼 게임 플레이어블 광고 개발자" 포지션에 지원하기 위해 제작한 포트폴리오 프로젝트입니다.**
 >
@@ -14,6 +14,7 @@
 
 ## 🎮 게임 플레이 미리보기
 
+![Image](https://github.com/user-attachments/assets/e37386ef-80e6-47d0-a0e3-4f61f863e976)
 
 <br>
 
