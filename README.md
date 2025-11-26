@@ -14,7 +14,7 @@
 
 ## 🎮 게임 플레이 미리보기
 
-<div align="center"><img src="https://github.com/user-attachments/assets/e37386ef-80e6-47d0-a0e3-4f61f863e976" width="200" height="350"></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/e37386ef-80e6-47d0-a0e3-4f61f863e976" width="400" height="600"></div>
 
 <br>
 
