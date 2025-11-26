@@ -4,14 +4,6 @@
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue.svg)](https://www.typescriptlang.org/)
 [![Game Genre](https://img.shields.io/badge/Genre-Casual%20%7C%20Tycoon-green)]()
 
-> **트리플라(TREEPLLA)의 "캐주얼 게임 플레이어블 광고 개발자" 포지션에 지원하기 위해 제작한 포트폴리오 프로젝트입니다.**
->
-> 블로그 글 "[이 게임, 어디부터 어디까지 AI로 만들었을까?](https://blog.treeplla.com/%EC%9D%B4-%EA%B2%8C%EC%9E%84-%EC%96%B4%EB%94%94%EB%B6%80%ED%84%B0-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-ai%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C-bd1fbc973200)"를 감명 깊게 읽었습니다. 특히 비개발 직군이 AI를 활용해 플레이어블 광고를 만들고, 더 나아가 Cocos Creator를 학습하여 최적화된 결과물을 만들어내는 과정은 기술에 대한 열정과 주도적인 문제 해결 능력을 중요시하는 기업 문화를 보여주었습니다.
->
-> 트리플라의 성장 중심 문화에 동기를 부여받아  **Cocos Creator와 TypeScript 역량**을 활용하여 플레이어블 광고의 핵심을 담은 프로젝트를 개발했습니다.
-
-<br>
-
 ## 🎮 게임 플레이 미리보기
 
 <div align="center"><img src="https://github.com/user-attachments/assets/e37386ef-80e6-47d0-a0e3-4f61f863e976" width="400" height="600"></div>
